@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "679b3ede-6a99-44e3-8fd1-bb94002df8a9": {
+      "ProjectGuid": "679b3ede-6a99-44e3-8fd1-bb94002df8a9",
+      "DisplayName": "SpecFlowCalculator",
+      "ColorIndex": 0
+    },
+    "22858070-4453-40e8-b6d3-d213de536983": {
+      "ProjectGuid": "22858070-4453-40e8-b6d3-d213de536983",
+      "DisplayName": "SpecFlowCalculator.Specs",
+      "ColorIndex": 1
+    },
+    "db1ab7fd-968e-4b7d-abeb-27f96ebb0ccc": {
+      "ProjectGuid": "db1ab7fd-968e-4b7d-abeb-27f96ebb0ccc",
+      "DisplayName": "SpecFlowCalculator",
+      "ColorIndex": 2
+    },
+    "04dc4ad2-d45e-4a60-b1c5-527286cb6213": {
+      "ProjectGuid": "04dc4ad2-d45e-4a60-b1c5-527286cb6213",
+      "DisplayName": "SpecFlowCalculator.Specs",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
